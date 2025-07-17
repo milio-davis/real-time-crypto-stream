@@ -2,8 +2,6 @@
 
 This project ingests **live Bitcoin transactions** using the **Blockchain.com WebSocket API**, streams them into **AWS Kinesis**, process the data with **AWS Lambda**, and loads it into **AWS Redshift** for querying and analysis.
 
----
-
 ## 📌 Features
 
 - Live stream of BTC transactions in real time
