@@ -22,5 +22,5 @@ This project ingests **live Bitcoin transactions** using the **Blockchain.com We
 [ Kinesis Firehose ]
              ↓
 [ Amazon S3 ] → [ Redshift COPY ]
-                          ↓
+             ↓
 [ Live Queries + Dashboards ]
